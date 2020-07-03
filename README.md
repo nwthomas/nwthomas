@@ -11,7 +11,7 @@ Here's a little about what I'm currently up to:
   - [Dev.to](https://dev.to/nwthomas)
   - [HackerNoon](https://hackernoon.com/u/nwthomas)
   - [Medium](https://medium.com/@nwthomas)
-- 🏗 I'm building a new app. It's at [bandolier.app](https://bandolier.app/) <span><img draggable="false" style="height:10px;width:auto;" src="./assets/bandolier-logo.png" /></span>, but it's just a logo page at the moment. It's a secret, so don't tell anyone. 🤫
+- 🏗 I'm building a new app. It's at [bandolier.app](https://bandolier.app/), but it's just a logo page at the moment. It's a secret, so don't tell anyone. 🤫
 - 👨🏻‍🎓 I'm looking for advice on [Next.js](https://nextjs.org/)
 
 My hobbies include random stuff like running 🏃🏻‍♂️, yoga 🧘🏻‍♂️, audio engineering 👨🏻‍🎤, reading 📚, games 🎮🎲, and coffee ☕️.
