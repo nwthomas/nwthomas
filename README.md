@@ -1,4 +1,4 @@
-![Don't you dare comment on my Dino skills](assets/dino.gif)
+<div align="center"><img src="assets/dino.gif" alt="The Google Chrome Dinosaur jumping game being played" /></div>
 
 Hey, I'm Nate. I work as a software engineer at [Twitter](https://twitter.com), my pronouns are [he/him/his/himself](https://pronoun.is/he), and I write a lot at [Dev.to](https://dev.to/nwthomas), [HackerNoon](https://hackernoon.com/u/nwthomas), and [Medium](https://medium.com/@nwthomas).
 
