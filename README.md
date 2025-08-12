@@ -6,7 +6,13 @@ i'm interested in the intersection of human consciousness and technology, partic
 
 you can find me across the internet:
 
-- [website](https://www.nathanthomas.dev/)
+- [website](https://www.nathanthomas.dev)
 - [blog](https://www.nathanthomas.dev/blog)
-- [linkedin](https://www.linkedin.com/in/nwthomas-dev/)
+- [instagram](https://www.instagram.com/nwthomas)
+- [substack](https://nathanthomas.substack.com)
+- [linkedin](https://www.linkedin.com/in/nwthomas-dev)
 - [x](https://x.com/nwthomas_)
+
+<a href='http://www.catb.org/hacker-emblem/'>
+  <img style="width:1em;height:1em;" src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' />
+</a>
