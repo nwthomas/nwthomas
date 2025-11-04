@@ -1,8 +1,8 @@
 Welcome to my GitHub.
 
-While most of my work contributions are private, you can find my passion projects here.
+While most of my work contributions are private, you can find my personal projects here.
 
-I'm interested in the intersection of human consciousness and technology, particularly with art, writing, and audio.
+I fell in love with technology as a little kid. Ever since, I've loved using it for art, writing, communication, social progress, and anything that fosters creativity in humanity.
 
 You can find me across the internet:
 
