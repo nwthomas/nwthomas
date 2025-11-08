@@ -1,16 +1,16 @@
 Welcome to my GitHub.
 
-While most of my work contributions are private, you can find my personal projects here.
+While most of my work contributions are private, you can find my personal projects here. They tend to focus on personal learning or open sourced software.
 
-I fell in love with technology as a little kid. Ever since, I've loved using it for art, writing, communication, social progress, and anything that fosters creativity in humanity.
+At the end of the day, I fell in love with technology as a little kid and just never left.
 
-You can find me across the internet:
+You can find traces of me across the internet:
 
-- [Website](https://www.nathanthomas.dev)
 - [Blog](https://www.nathanthomas.dev/blog)
 - [Instagram](https://www.instagram.com/nwthomas)
-- [Substack](https://nathanthomas.substack.com)
 - [LinkedIn](https://www.linkedin.com/in/nwthomas-dev)
+- [Substack](https://nathanthomas.substack.com)
+- [Website](https://www.nathanthomas.dev)
 - [X](https://x.com/nwthomas_)
 
 <a href='http://www.catb.org/hacker-emblem/'>
