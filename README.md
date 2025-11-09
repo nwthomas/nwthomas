@@ -9,6 +9,7 @@ Traces of me across the internet:
 - [Blog](https://www.nathanthomas.dev/blog)
 - [Instagram](https://www.instagram.com/nwthomas)
 - [LinkedIn](https://www.linkedin.com/in/nwthomas-dev)
+- [Spotify](https://open.spotify.com/user/nathanwthomas)
 - [Substack](https://nathanthomas.substack.com)
 - [Website](https://www.nathanthomas.dev)
 - [X](https://x.com/nwthomas_)
