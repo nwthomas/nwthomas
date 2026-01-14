@@ -7,7 +7,7 @@ While most of my work contributions are private, you can find my personal and op
 Traces of me across the internet:
 
 - [Blog](https://www.nathanthomas.dev/writing)
-- [Instagram](https://www.instagram.com/nwthomas)
+- [Bookmarks](https://www.nathanthomas.dev/bookmarks)
 - [LinkedIn](https://www.linkedin.com/in/nwthomas-dev)
 - [Spotify](https://open.spotify.com/user/nathanwthomas)
 - [Substack](https://nathanthomas.substack.com)
