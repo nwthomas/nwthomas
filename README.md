@@ -12,7 +12,6 @@ Traces of me across the internet:
 - [Spotify](https://open.spotify.com/user/nathanwthomas)
 - [Substack](https://nathanthomas.substack.com)
 - [Website](https://www.nathanthomas.dev)
-- [X](https://x.com/nwthomas)
 
 <a href='http://www.catb.org/hacker-emblem/'>
   <img style="width:1em;height:1em;" src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' />
